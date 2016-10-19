@@ -1,7 +1,7 @@
 The Big List of Tech Art
 ========================
 
-The Following are Articles, Links, Talks and Techniques that have been helpful to me
+Articles and resources about specific techniques. 
 
 
 
@@ -9,10 +9,16 @@ Videos
 ------
  	
 
- `Ocean Quigley Building SimCity: Art in the Service of Simulation <https://archive.org/details/GDC2013Quigley>`_
+`Ocean Quigley Building SimCity: Art in the Service of Simulation <https://archive.org/details/GDC2013Quigley>`_
+----------------------------------------------------------------------------------------------------------------
+ 
+An excellent talk, with some great techniques for creating visual fidelity at minimal cpu/gpu cost. 
 
 
- GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D
+GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A lot of good info, including some very novel UV-mapping techniques
 
  .. raw:: html 
 
@@ -26,4 +32,10 @@ Videos
 
 Articles
 --------
+
+
+`Polycount Thread on PBR <http://polycount.com/discussion/125655/physical-based-materials>`_
+
+
+
 

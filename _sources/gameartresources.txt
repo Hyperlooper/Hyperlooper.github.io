@@ -1,9 +1,38 @@
+*************************
 Useful Game Art Resources
-=========================
+*************************
+
+General Resources Pertaining to Game Art & Technical Pipeline
 
 
-
+Forums
+------
 
 `PolyCount Forums <http://Polycount.com/>`_
 
 `Unreal Engine Forums <https://forums.unrealengine.com/>`_
+
+Sites
+-----
+
+`The Polycount Wiki <http://wiki.polycount.com/wiki/Polycount/>`_
+
+Contains a wealth of information on techniques. 
+
+`DougVFX Blog <http://dougvfx.blogspot.ca/>`_
+
+`Simon Schreibt's Game art Tricks <https://simonschreibt.de/game-art-tricks//>`_
+
+`TIGForums Game Tricks Megathread  <https://forums.tigsource.com/index.php?PHPSESSID=bd95fdfdb6b534ea580540871deb8b67&topic=32227.0
+/>`_
+
+
+Books & Other Resources
+-----------------------
+
+
+`The Art of Moving Points - Facial Articulation <http://www.indiewire.com/2013/04/ebook-review-the-art-of-moving-points-123021/>`_
+
+
+
+
