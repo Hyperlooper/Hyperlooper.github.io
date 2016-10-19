@@ -3,4 +3,7 @@ Useful Game Art Resources
 
 
 
-Coming Soon
+
+`PolyCount Forums <http://Polycount.com/>`_
+
+`Unreal Engine Forums <https://forums.unrealengine.com/>`_

@@ -6,10 +6,13 @@
 Game Art Resources 
 ====================================
 
+I've collected a lot of links to good game dev resources, and felt the need to organize them somplace. 
+I hope these prove useful to you. 
+
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    gameartresources
 
@@ -17,7 +20,6 @@ Contents:
 
    software
 
-  
 
 
 

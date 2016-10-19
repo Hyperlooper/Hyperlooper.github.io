@@ -2,3 +2,28 @@ The Big List of Tech Art
 ========================
 
 The Following are Articles, Links, Talks and Techniques that have been helpful to me
+
+
+
+Videos
+------
+ 	
+
+ `Ocean Quigley Building SimCity: Art in the Service of Simulation <https://archive.org/details/GDC2013Quigley>`_
+
+
+ GuiltyGearXrd's Art Style : The X Factor Between 2D and 3D
+
+ .. raw:: html 
+
+ 		<iframe width="560" height="315" src="https://www.youtube.com/embed/yhGjCzxJV3E" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+
+
+Articles
+--------
+
