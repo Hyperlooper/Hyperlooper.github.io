@@ -1,6 +1,6 @@
 *************************
 Useful Game Art Resources
-*************************
+************************* 
 
 General Resources Pertaining to Game Art & Technical Pipeline
 

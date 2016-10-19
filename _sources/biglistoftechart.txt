@@ -6,7 +6,7 @@ Articles and resources about specific techniques.
 
 
 Videos
-------
+------ 
  	
 
 `Ocean Quigley Building SimCity: Art in the Service of Simulation <https://archive.org/details/GDC2013Quigley>`_
