@@ -1,16 +1,16 @@
 The Big List of Tech Art
-========================
+==============================
 
-Articles and resources about specific techniques. 
+Articles and resources about specific techniques
 
 
 
 Videos
------- 
+-------
  	
 
 `Ocean Quigley Building SimCity: Art in the Service of Simulation <https://archive.org/details/GDC2013Quigley>`_
-----------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
  
 An excellent talk, with some great techniques for creating visual fidelity at minimal cpu/gpu cost. 
 
